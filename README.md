@@ -8,8 +8,9 @@ Every part of this project is done using the OOP paradigm with a goal for effect
 * Include possibility to include PDF ticket generation with Receipt No.:, Name and Price to be shown at hotel when checking in.
 
 ## Sample of how the app runs on terminal line.
-![](C:\Users\User\OneDrive\Desktop\Hotel_Booking_App_Demo.png)
 
+![](C:\Users\User\OneDrive\Desktop\Hotel_Booking_App_Demo.png)
+<img src="C:\Users\User\OneDrive\Desktop\Hotel_Booking_App_Demo.png"/>
 ## Work In Progress
 The app is a rudimentary app showcasing the potential using minimalistic data.
 
