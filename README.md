@@ -11,6 +11,7 @@ Every part of this project is done using the OOP paradigm with a goal for effect
 
 ![](C:\Users\User\OneDrive\Desktop\Hotel_Booking_App_Demo.png)
 <img src="C:\Users\User\OneDrive\Desktop\Hotel_Booking_App_Demo.png"/>
+![image](https://github.com/ilyan146/Hotel_Booking_App_OOP/assets/123881167/ed2bb562-dfa6-4ce7-8e10-f256e0117fc6)
 ## Work In Progress
 The app is a rudimentary app showcasing the potential using minimalistic data.
 
