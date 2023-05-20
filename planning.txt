@@ -1,0 +1,10 @@
+Simple overview plan of the app.
+
+User can see a list of hotels.
+User can book a hotel.
+User should receive confirmation/reservation ticket.
+
+Clases:
+User
+Maybe - Hotel?
+Maybe - Reservation Ticket?
